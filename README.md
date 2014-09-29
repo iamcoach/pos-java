@@ -10,13 +10,6 @@
 - 在操作系统上用相应的包管理工具安装 Maven
 - 使用IntelliJ IDEA将本项目作为一个新的Maven项目导入并成功编译
 
-## 作业要求
-
-
-# POS Project v0
-
-POS收银机 版本：v0
-
 ## 教学目标
 
 1. 熟悉Java的基本语法；
